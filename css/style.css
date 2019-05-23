@@ -1,0 +1,22 @@
+.rectangulo {
+    height: 313px;
+    width: auto;
+}
+
+.figura{
+    background-color: blue;
+}
+
+@media (max-width: 991.98px) { 
+
+    .cuadro{
+        display: none;
+    }
+    .cuadro2 {
+        visibility: hidden;
+    }
+    .rectangulo {
+        height: 341.5px;
+        width: auto;
+    }
+ }
